@@ -20,7 +20,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
     "ee-log-bubble": "ElfyCares/ee-log-bubble#^1.0.0",
-    "ee-drawer-panel": "ElfyCares/ee-drawer-panel#^1.0.0"
+    "ee-drawer-panel": "ElfyCares/ee-drawer-panel#^1.0.0",
+    "ee-slide-button": "ElfyCares/ee-slide-button#^1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
