@@ -23,7 +23,8 @@
     "ee-drawer-panel": "ElfyCares/ee-drawer-panel#^1.0.x",
     "ee-slide-button": "ElfyCares/ee-slide-button#^1.0.x",
     "ee-double-input": "ElfyCares/ee-double-input#^1.0.x",
-    "ee-calendar": "ElfyCares/ee-calendar#^1.0.x"
+    "ee-calendar": "ElfyCares/ee-calendar#^1.0.x",
+    "ee-editable-input": "ElfyCares/ee-editable-input#^1.0.x"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
