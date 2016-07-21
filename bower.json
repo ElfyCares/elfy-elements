@@ -19,13 +19,13 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
-    "ee-log-bubble": "ElfyCares/ee-log-bubble#^1.0.x",
-    "ee-drawer-panel": "ElfyCares/ee-drawer-panel#^1.0.x",
-    "ee-slide-button": "ElfyCares/ee-slide-button#^1.0.x",
-    "ee-double-input": "ElfyCares/ee-double-input#^1.0.x",
-    "ee-calendar": "ElfyCares/ee-calendar#^1.0.x",
-    "ee-editable-input": "ElfyCares/ee-editable-input#^1.0.x",
-    "ee-action-item": "ElfyCares/ee-action-item#^1.0.x"
+    "ee-log-bubble": "git@github.com:ElfyCares/ee-log-bubble.git",
+    "ee-drawer-panel": "git@github.com:ElfyCares/ee-drawer-panel.git",
+    "ee-slide-button": "git@github.com:ElfyCares/ee-slide-button.git",
+    "ee-double-input": "git@github.com:ElfyCares/ee-double-input.git",
+    "ee-calendar": "git@github.com:ElfyCares/ee-calendar.git",
+    "ee-editable-input": "git@github.com:ElfyCares/ee-editable-input.git",
+    "ee-action-item": "git@github.com:ElfyCares/ee-action-item.git"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
