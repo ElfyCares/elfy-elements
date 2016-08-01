@@ -26,7 +26,8 @@
     "ee-calendar": "git@github.com:ElfyCares/ee-calendar.git",
     "ee-editable-input": "git@github.com:ElfyCares/ee-editable-input.git",
     "ee-action-item": "git@github.com:ElfyCares/ee-action-item.git",
-    "ee-api-behavior": "git@github.com:ElfyCares/ee-api-behavior.git"
+    "ee-api-behavior": "git@github.com:ElfyCares/ee-api-behavior.git",
+    "ee-status-button": "git@github.com:ElfyCares/ee-status-button.git"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
